@@ -4,7 +4,7 @@ This is a brief description of my project and what it does.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
+1. Clone the repository: `git clone https://github.com/joshhy12e/repo.git`
 2. Install dependencies: `npm install`
 
 ## Usage
